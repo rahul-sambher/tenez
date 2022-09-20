@@ -1,0 +1,96 @@
+/* HOME PAGE  */
+/* nav area */
+#text-light a{
+    color: white;
+}
+/* nav area */
+
+/* Intro area start */
+.bgimg1{
+    background-image: url('../images/img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+.color-orange{
+    color: orange;
+}
+.fs-20{
+    font-size: 20px;
+}
+.color-white{
+    color: white;
+}
+.fs-35{
+    font-size: 35px;
+}
+.fs-25{
+    font-size: 25px;
+}
+#row1{
+    padding-top: 100px;
+}
+/* Intro area end */
+
+/* promotion area start  */
+#promotion{
+    background-image: url('../images/img7.jpg');
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+#promotion h4{
+    margin-top: 160px;
+}
+/* promotion area end  */
+
+/* Membership area start  */
+#membership{
+    text-align: center;
+}
+.membership{
+    font-size: 40px;
+}
+.junior{
+    text-align: right;
+    border: 1px solid rgb(181, 207, 105);
+    background-color: rgb(181, 207, 105);
+    border-radius: 40px 0px 0px 40px;
+}
+.junior1{
+    text-align: right;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 40px 0px 0px 40px;
+}
+#familypackage{
+    background-color: rgb(181, 207, 105);
+    box-shadow: 10px 10px 10px;
+}
+#boxshadow{
+    box-shadow: 10px 10px 10px; 
+}
+/* Membership area end  */
+
+/* Footer area start  */
+#footer1 a{
+    text-decoration: none;
+}
+.footer2{
+    font-size: 17px;
+}
+#socialcontent{
+    text-align: center;
+}
+#socialcontent a{
+    border: 1px solid grey;
+    border-radius: 30%;
+    color: white;
+}
+#socialcontent a:hover{
+    background-color: white;
+    color: black;
+}
+/* Footer area end  */
+/* HOME PAGE  */

@@ -1,0 +1,58 @@
+#bgimg1{
+    background-image: url('../images/about/img.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+#home a{
+    color: white;
+}
+#about a{
+    color: orange;
+}
+
+/* coaches  */
+.team-card {
+    box-shadow: 1px 1px 25px rgb(0 0 0 / 26%);
+}
+.team-2 span {
+    color: hsl(36, 100%, 61%);
+}
+.team-2 p {
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.team-2 i {
+    letter-spacing: 10px;
+    font-size: 25px;
+    color: #b5c525;
+}
+/* coaches  */
+.team-2 span {
+    color: hsl(36, 100%, 61%);
+}
+.team-2 i {
+    letter-spacing: 10px;
+    font-size: 25px;
+    color: #b5c525;
+}
+/* Footer  */
+#footer1 a{
+    text-decoration: none;
+}
+.footer2{
+    font-size: 17px;
+}
+#socialcontent{
+    text-align: center;
+}
+#socialcontent a{
+    border: 1px solid grey;
+    border-radius: 30%;
+    color: white;
+}
+#socialcontent a:hover{
+    background-color: white;
+    color: black;
+}
+/* Footer  */

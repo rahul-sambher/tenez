@@ -1,0 +1,16 @@
+/* nav area */
+#text-light a{
+    color: white;
+}
+/* nav area */
+
+/* intro  */
+#bgimg{
+    background-image: url('../images/Blog/img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+/* intro  */
+

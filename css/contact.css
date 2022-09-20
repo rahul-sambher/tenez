@@ -1,0 +1,35 @@
+/* nav area */
+#text-light a{
+    color: white;
+}
+/* nav area */
+
+/* contact form area  */
+#bgimg{
+    background-image: url('../images/img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+
+/* Footer area start  */
+#footer1 a{
+    text-decoration: none;
+}
+.footer2{
+    font-size: 17px;
+}
+#socialcontent{
+    text-align: center;
+}
+#socialcontent a{
+    border: 1px solid grey;
+    border-radius: 30%;
+    color: white;
+}
+#socialcontent a:hover{
+    background-color: white;
+    color: black;
+}
+/* Footer area end  */
